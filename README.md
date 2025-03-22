@@ -45,7 +45,7 @@ The dataset includes:
 - The total number of casualties that happen during daylight is over 300,000.
 
 ### Dashboard
-![Road Accident](https://github.com/Josh-health/Road-Accident-Excel-Project-/commit/212cb93adb6d282b987a0bce26cd6cbb9cf8af6b)
+![Road Accident](https://github.com/Josh-health/Road-Accident-Excel-Project-/blob/main/Road%20Accident.PNG)
 
 ### Excel File
 Get access to the Excel file here to gain more insight: [Road Accident](https://drive.google.com/drive/folders/1fWL2xAnKgCV6d3Z1czjLtn97nGCmhyCn?usp=drive_link)
